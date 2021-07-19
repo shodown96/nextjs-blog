@@ -12,7 +12,13 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>
+          I'm a Full Stack Django | ReactJS Developer with over four years of
+          experience. I've worked on several types of apps, third-party
+          technologies. I love to build optimized and secure application which
+          help in positively impacting people's lives or help in solving an
+          issue.
+        </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
